@@ -2,8 +2,8 @@
 
 Contributors: kasparsd   
 Tags: cache, caching, widget, widgets, output, transient, object cache, memcache, apc, performance   
-Requires at least: 3.0.1   
-Tested up to: 4.5.2    
+Requires at least: 4.5  
+Tested up to: 4.9 
 Stable tag: trunk   
 License: GPLv2 or later   
 
@@ -33,6 +33,9 @@ None.
 
 
 ## Changelog
+
+### 0.5.3
+* Tested with WordPress 4.9.
 
 ### 0.5.2
 * Tested with WordPress 4.5.2.

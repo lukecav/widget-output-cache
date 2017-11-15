@@ -4,7 +4,7 @@
 	Description: Caches widget output in WordPress object cache.
 	Version: 0.5.2
 	Plugin URI: https://wordpress.org/plugins/widget-output-cache/
-	GitHub URI: https://github.com/kasparsd/widget-output-cache
+	GitHub URI: https://github.com/lukecav/widget-output-cache/
 	Author: Kaspars Dambis
 	Author URI: http://kaspars.net
 */
